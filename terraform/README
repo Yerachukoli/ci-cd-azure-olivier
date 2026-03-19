@@ -1,0 +1,8 @@
+# CI/CD Terraform Azure
+
+Projet de mise en place d’un pipeline CI/CD avec Terraform vers Microsoft Azure.
+
+## Technologies utilisées
+- Terraform
+- Microsoft Azure
+- GitHub Actions
