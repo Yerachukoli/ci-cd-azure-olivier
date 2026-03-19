@@ -6,4 +6,4 @@ Projet de mise en place d’un pipeline CI/CD avec Terraform vers Microsoft Azur
 - Terraform
 - Microsoft Azure
 - GitHub Actions
-TEST
+test pipeline
